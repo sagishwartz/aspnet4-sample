@@ -1,8 +1,0 @@
-C:\Users\vagrant\Desktop\aspnet4-sample-master\aspnet4-sample-master\aspnet4-test\bin\Debug\aspnet4-test.dll
-C:\Users\vagrant\Desktop\aspnet4-sample-master\aspnet4-sample-master\aspnet4-test\bin\Debug\aspnet4-test.pdb
-C:\Users\vagrant\Desktop\aspnet4-sample-master\aspnet4-sample-master\aspnet4-test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\vagrant\Desktop\aspnet4-sample-master\aspnet4-sample-master\aspnet4-test\obj\Debug\aspnet4-test.csproj.AssemblyReference.cache
-C:\Users\vagrant\Desktop\aspnet4-sample-master\aspnet4-sample-master\aspnet4-test\obj\Debug\aspnet4-test.csproj.CoreCompileInputs.cache
-C:\Users\vagrant\Desktop\aspnet4-sample-master\aspnet4-sample-master\aspnet4-test\obj\Debug\aspnet4-test.csproj.CopyComplete
-C:\Users\vagrant\Desktop\aspnet4-sample-master\aspnet4-sample-master\aspnet4-test\obj\Debug\aspnet4-test.dll
-C:\Users\vagrant\Desktop\aspnet4-sample-master\aspnet4-sample-master\aspnet4-test\obj\Debug\aspnet4-test.pdb
